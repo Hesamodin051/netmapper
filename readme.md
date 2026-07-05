@@ -82,7 +82,7 @@
    npm start
 4. **Open your browser and go to:**
 
-text
+```text
 http://localhost:3000
 📊 How to Use
 Enter a subnet (e.g., 192.168.1.0/24) and click Scan.
@@ -107,7 +107,7 @@ Use the toolbar buttons:
 Network Graph	Device Details	Security Analysis
 https://screenshots/graph.png	https://screenshots/details.png	https://screenshots/security.png
 ## 📁 Project Structure
-text
+```text
 netmapper/
 ├── public/
 │   ├── index.html          # Main UI

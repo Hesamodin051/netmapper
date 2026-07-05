@@ -74,15 +74,13 @@
    ```bash
    git clone https://github.com/Hesamodin051/netmapper.git
    cd netmapper
-Install dependencies
-
-bash
-npm install
-Start the server
-
-bash
-npm start
-Open your browser and go to:
+2. **Install dependencies**
+   ```bash
+   npm install
+3. **Start the server**
+   ```bash
+   npm start
+4. **Open your browser and go to:**
 
 text
 http://localhost:3000
@@ -103,12 +101,12 @@ Use the toolbar buttons:
 
 📋 Console – view live logs
 
-📸 Screenshots
+## 📸 Screenshots
 (Add your screenshots in the screenshots/ folder and update the paths accordingly.)
 
 Network Graph	Device Details	Security Analysis
 https://screenshots/graph.png	https://screenshots/details.png	https://screenshots/security.png
-📁 Project Structure
+## 📁 Project Structure
 text
 netmapper/
 ├── public/
@@ -125,7 +123,7 @@ netmapper/
 ├── server.js               # Main server file
 ├── package.json            # Dependencies
 └── README.md               # This file
-🔮 Future Improvements
+## 🔮 Future Improvements
 ✅ Real-time WebSocket support (currently using polling)
 
 ✅ OS fingerprinting via TTL analysis
@@ -134,7 +132,7 @@ netmapper/
 
 ✅ Mobile‑friendly responsive design
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## 👨‍💻 Contact
@@ -144,6 +142,6 @@ Computer Engineering Student, University of Tehran
 📧 Email: hesamodinkadkhoda@ut.ac.ir  
 🔗 GitHub: [Hesamodin051](https://github.com/Hesamodin051)
 
-⭐ Support
+## ⭐ Support
 If you find this project useful, please give it a star ⭐ on GitHub!
 

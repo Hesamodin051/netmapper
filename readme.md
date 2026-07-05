@@ -137,11 +137,12 @@ netmapper/
 📝 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-👨‍💻 Contact
-Hesamodin Kodkhoda
-Computer Engineering Student, University of Tehran
-📧 Email: [your-email@example.com]
-🔗 GitHub: Hesamodin051
+## 👨‍💻 Contact
+
+**Hesamodin Kodkhoda**  
+Computer Engineering Student, University of Tehran  
+📧 Email: hesamodinkadkhoda@ut.ac.ir  
+🔗 GitHub: [Hesamodin051](https://github.com/Hesamodin051)
 
 ⭐ Support
 If you find this project useful, please give it a star ⭐ on GitHub!

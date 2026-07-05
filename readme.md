@@ -74,3 +74,75 @@
    ```bash
    git clone https://github.com/Hesamodin051/netmapper.git
    cd netmapper
+Install dependencies
+
+bash
+npm install
+Start the server
+
+bash
+npm start
+Open your browser and go to:
+
+text
+http://localhost:3000
+📊 How to Use
+Enter a subnet (e.g., 192.168.1.0/24) and click Scan.
+
+Click on any node to view device details in the side panel.
+
+Use the toolbar buttons:
+
+🔗 Add Link – manually connect two devices
+
+🔒 Check Security – analyze public vulnerabilities (CVE)
+
+📄 JSON / 📊 CSV / 🖼️ PNG / 📄 PDF – export results
+
+📂 History – view and load previous scans
+
+📋 Console – view live logs
+
+📸 Screenshots
+(Add your screenshots in the screenshots/ folder and update the paths accordingly.)
+
+Network Graph	Device Details	Security Analysis
+https://screenshots/graph.png	https://screenshots/details.png	https://screenshots/security.png
+📁 Project Structure
+text
+netmapper/
+├── public/
+│   ├── index.html          # Main UI
+│   ├── script.js           # Frontend logic
+│   └── lib/                # Local libraries (jsPDF, etc.)
+├── server/
+│   ├── services/           # MAC resolver, network scanner, etc.
+│   ├── routes/             # API routes
+│   ├── config/             # Configuration
+│   ├── macdb.json          # MAC vendor database
+│   └── index.js            # Server entry point
+├── screenshots/            # Screenshots for README
+├── server.js               # Main server file
+├── package.json            # Dependencies
+└── README.md               # This file
+🔮 Future Improvements
+✅ Real-time WebSocket support (currently using polling)
+
+✅ OS fingerprinting via TTL analysis
+
+✅ Email/SMS alerts for new devices
+
+✅ Mobile‑friendly responsive design
+
+📝 License
+This project is licensed under the MIT License – see the LICENSE file for details.
+
+👨‍💻 Contact
+Hesamodin Kodkhoda
+Computer Engineering Student, University of Tehran
+📧 Email: [your-email@example.com]
+🔗 GitHub: Hesamodin051
+
+⭐ Support
+If you find this project useful, please give it a star ⭐ on GitHub!
+

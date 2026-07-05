@@ -100,7 +100,7 @@ Use the toolbar buttons:
 📂 History – view and load previous scans
 
 📋 Console – view live logs
-
+```
 ## 📸 Screenshots
 (Add your screenshots in the screenshots/ folder and update the paths accordingly.)
 
@@ -123,6 +123,7 @@ netmapper/
 ├── server.js               # Main server file
 ├── package.json            # Dependencies
 └── README.md               # This file
+```
 ## 🔮 Future Improvements
 ✅ Real-time WebSocket support (currently using polling)
 
